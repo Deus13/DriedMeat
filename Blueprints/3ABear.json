@@ -1,0 +1,14 @@
+{
+    "RequiredGear": ["GEAR_RawMeatBear","GEAR_Sal"],
+    "RequiredGearUnits": [1,1],
+    "KeroseneLitersRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [""],
+    "RequiresForge": false,
+    "RequiresWorkbench": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_BMeat",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 10,
+    "CraftingAudio": ""
+}

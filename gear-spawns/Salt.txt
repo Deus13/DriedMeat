@@ -1,0 +1,48 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=Sal w=10
+
+
+#----------------
+loottable=Freezer
+#----------------
+item=Sal w=1
+
+
+#---------------
+loottable=Fridge
+#---------------
+item=Sal w=1
+
+
+#--------------------
+loottable=HumanCorpse
+#--------------------
+item=Sal w=1
+
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=Sal w=10
+
+
+#---------------
+loottable=Locker
+#---------------
+item=Sal w=1
+
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=Sal w=1
+
+
+#-------------------
+loottable=PlasticBox
+#-------------------
+item=Sal w=3
+
+

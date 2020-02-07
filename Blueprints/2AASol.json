@@ -1,0 +1,14 @@
+{
+    "RequiredGear": ["GEAR_Charcoal"],
+    "RequiredGearUnits": [5],
+    "KeroseneLitersRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [""],
+    "RequiresForge": false,
+    "RequiresWorkbench": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Zola",
+    "CraftedResultCount": 3,
+    "DurationMinutes": 8,
+    "CraftingAudio": "Play_HarvestingPlants"
+}

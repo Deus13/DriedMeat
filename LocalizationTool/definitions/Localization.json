@@ -1,0 +1,165 @@
+[{
+	"id": "GAMEPLAY_DMeat",
+	"text": "Salted Venison (Raw)"	
+},
+{
+	"id": "GAMEPLAY_DMeatDescription",
+	"text": "Deer Flesh. Prepare to Eat."	
+},
+{
+	"id": "GAMEPLAY_DMeatS",
+	"text": "Dried Venison"	
+},
+{
+	"id": "GAMEPLAY_DMeatSDescription",
+	"text": "Cooked Deer Meat."
+},
+{
+	"id": "GAMEPLAY_BMeat",
+	"text": "Salty bear’s meat (raw)"
+},
+{
+	"id": "GAMEPLAY_BMeatDescription",	
+	"text": "Black bear meat. Dark and dense. It usually tastes like a bear."
+},
+{
+	"id": "GAMEPLAY_BMeatS",
+	"text": "Dried Bear"	
+},
+{
+	"id": "GAMEPLAY_BMeatSDescription",
+	"text": "Cooked Bear. Heavy Food."
+},
+{
+	"id": "GAMEPLAY_MMeat",
+	"text": "Salted Moose (Raw)"	
+},
+{
+	"id": "GAMEPLAY_MMeatDescription",
+	"text": "Elk meat. Tough and non-greasy."
+},
+{
+	"id": "GAMEPLAY_MMeatS",
+	"text": "Dried Elk"	
+},
+{
+	"id": "GAMEPLAY_RMeat",
+	"text": "Salted rabbit meat (raw)"	
+},
+{
+	"id": "GAMEPLAY_RMeatDescription",
+	"text": "Rabbit Flesh. Prepare to Eat."
+},
+{
+	"id": "GAMEPLAY_RMeatS",
+	"text": "Dried Rabbit"	
+},
+{
+	"id": "GAMEPLAY_RMeatSDescription",
+	"text": "Cooked Rabbit Meat."	
+},
+{
+	"id": "GAMEPLAY_WMeat",
+	"text": "Salted Wolf (Raw)"	
+},
+{
+	"id": "GAMEPLAY_WMeatDescription",
+	"text": "Flesh of the wolf. Prepare so you can eat."	
+},
+{
+	"id": "GAMEPLAY_WMeatS",
+	"text": "Dried Wolf"	
+},
+{
+	"id": "GAMEPLAY_WMeatSDescription",
+	"text": "Cooked Wolf Meat."
+},
+{
+	"id": "GAMEPLAY_KFish",
+	"text": "Salty Perch"	
+},
+{
+	"id": "GAMEPLAY_KFishDescription",
+	"text":  "A massive freshwater fish that lives only in clear waters."
+},
+{
+	"id": "GAMEPLAY_KFishS",
+	"text": "Dried Perch"	
+},
+{
+	"id": "GAMEPLAY_KFishSDescription",
+	"text": "A Real Feast of the Belly!"	
+},
+{
+	"id": "GAMEPLAY_SalFish",
+	"text": "Salted Rainbow Trout"	
+},
+{
+	"id": "GAMEPLAY_SalFishDescription",
+	"text": "Small saltwater fish with iridescent scales."	
+},
+{
+	"id": "GAMEPLAY_SalFishS",
+	"text": "Dried Rainbow Trout"	
+},
+{
+	"id": "GAMEPLAY_SalFishSDescription",
+	"text": "A Real Feast of the Belly!"	
+},
+{
+	"id": "GAMEPLAY_SFish",
+	"text": "Salted Coho Salmon"	
+},
+{
+	"id": "GAMEPLAY_SFishDescription",
+	"text": "Valuable fish found off the West Coast. Grows to a decent size."	
+},
+{
+	"id": "GAMEPLAY_SFishS",
+	"text": "Dried Coho Salmon"	
+},
+{
+	"id": "GAMEPLAY_SFishSDescription",
+	"text": "Cooked coho salmon. It tastes not very good, but better than nothing."	
+},
+{
+	"id": "GAMEPLAY_WFish",
+	"text": "Salty herring-shaped whitefish"	
+},
+{
+	"id": "GAMEPLAY_WFishDescription",
+	"text": "A common freshwater fish. Small but high-calorie."
+},
+{
+	"id": "GAMEPLAY_WFishS",
+	"text": "Herring Sig (Dried)"	
+},
+{
+	"id": "GAMEPLAY_WFishSDescription",
+	"text": "Cooked whitefish. It tastes not very good, but better than nothing."	
+},
+{
+	"id": "GAMEPLAY_Salt",
+	"text": "Sack of Salt"	
+},
+{
+	"id": "GAMEPLAY_SaltDescription",
+	"text": "Food product. When crushed, it is colorless crystals."
+},
+{
+	"id": "GAMEPLAY_Sal",
+	"text": "Salt"	
+},
+{
+	"id": "GAMEPLAY_SalDescription",
+	"text": "Food product. When crushed, it is colorless crystals."	
+},
+{
+	"id": "GAMEPLAY_Zola",
+	"text":  "Wood Ash Bank"
+},
+{
+	"id": "GAMEPLAY_ZolaDescription",
+	"text": "Non-combustible residue formed from mineral impurities of a fuel when it is completely burned."	
+}
+]
